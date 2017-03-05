@@ -38,8 +38,10 @@
   border-radius: 4px;
 }
 
-.img-wrong {
+.img-result {
   margin-top: 40px;
+  height:250px;
+  width: 300px;
 }
 
 .first-answer {
